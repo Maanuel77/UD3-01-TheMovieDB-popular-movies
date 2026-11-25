@@ -1,0 +1,3 @@
+.card { position: relative; background: #1c2230; color: #fff; border: none; }
+.card img { aspect-ratio: 2 / 3; object-fit: cover; }
+.nota { position: absolute; top: 8px; right: 8px; }

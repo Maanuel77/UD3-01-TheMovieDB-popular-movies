@@ -1,0 +1,3 @@
+export const environment = {
+  tmdbToken: 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNTk1ZDQwMmI0MTcxMzU4NmFlZmVkYjMxY2ZjNTljYSIsIm5iZiI6MTc5NTQzNzkyNy4wNTEsInN1YiI6IjZiMDQzNTY3ZTJlYjA1ZjFlMWIxYTllZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.uPMjHrwyvg4H_YrEGj3Jwt8T7YuEhnK_SPkQ3RZpgZY',
+};
